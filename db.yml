@@ -1,0 +1,10 @@
+
+# for registry development
+muskel:
+  host: db
+  name: muskelReportDataStaging
+  user: root
+  pass: root
+  disp: ForMuskelDevOnly
+
+
