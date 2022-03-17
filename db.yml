@@ -2,7 +2,7 @@
 # for registry development
 muskel:
   host: db
-  name: muskelReportDataStaging
+  name: MuskelReportDataStaging
   user: root
   pass: root
   disp: ForMuskelDevOnly
