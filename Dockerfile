@@ -14,8 +14,8 @@ RUN cat /home/rstudio/rap_config/db.yml >> /home/rstudio/rap_config/dbConfig.yml
                                 'shinyjs',\
                                 'rapFigurer',\
                                 'tidyverse',\
-				'lubridate',\
-				'magrittr',\	
-				'shinyalert',\
+                                'lubridate',\
+                                'magrittr',\
+                                'shinyalert',\
                                 'rapbase'))" \
     && R -e "remotes::install_github(c('Rapporteket/rapbase', 'Rapporteket/rapFigurer'))"
