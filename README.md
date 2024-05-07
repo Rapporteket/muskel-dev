@@ -6,4 +6,4 @@ Speed up development processes for muskel
 ```docker build -t rapporteket/muskel-dev .```
 
 ### Run
-```docker-compose up``` from the registry project/repo.
+```docker-compose up``` from the registry project/repo. 
